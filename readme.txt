@@ -13,4 +13,7 @@ Creating a new branch is dev_liaolei
 
 bug 分支测试，恢复了工作区，继续工作 了
 
+自测BUG分支
+
 修补BUG-02
+
