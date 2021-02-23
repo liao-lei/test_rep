@@ -8,3 +8,5 @@ test
 Creating a new branch is quick AND simple.
 
 Creating a new branch is dev_liaolei
+
+实战一下--no-ff方式的git merge：
